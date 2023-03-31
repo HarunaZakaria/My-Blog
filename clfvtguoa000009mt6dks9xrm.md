@@ -6,8 +6,6 @@ slug: what-is-a-github
 
 ---
 
-# What is a GitHub
-
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680222826864/11d8b3f0-70fe-43c7-9bab-1f71eb50dfbc.png align="left")
 
 ## Introduction
