@@ -10,21 +10,6 @@ slug: what-is-a-github
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680222826864/11d8b3f0-70fe-43c7-9bab-1f71eb50dfbc.png align="left")
 
-## Table of content
-
-1. Introduction
-    
-2. What is GitHub
-    
-3. How to get started with GitHub
-    
-4. How to create a repository
-    
-5. How to delete a repository
-    
-6. Conclusion
-    
-
 ## Introduction
 
 If you are a newbie to programming and you have been listening to GitHub and don’t know what exactly it is, then here is the right place for you to get to understand everything that you need to know and start using it yourself.
@@ -33,7 +18,7 @@ GitHub is something that you will probably be hearing when you are getting start
 
 But before we get into it there are two basic terms that you need to understand first, and these are version control and git.
 
-### **version control** 
+### **version control**
 
 The maintenance and management of source code changes in software projects are made easier by version control.
 
@@ -43,7 +28,7 @@ WordPress is actually a huge project. Enabling a core developer to change the "o
 
 Instead, branching and merging are safe production methods made possible by version control.
 
-A developer replicates some of the source code using branching (called the repository). 
+A developer replicates some of the source code using branching (called the repository).
 
 the developer can make changes to the section of the code without compromising the project's performance.
 
@@ -94,8 +79,6 @@ You must access your GitHub account in order to create a repository. On the left
 ![](https://lh6.googleusercontent.com/Kn0UWBVjhENC9nukeNU2vQ6oVXQacuDx4tbtVKc_79W1Kmb90eS11VRvygT7zSG_7rqaQJYn0HCp1G0F0yDBsqwqllGmG1THYzSvsiKwIDohkNY7YTum12VKaJ22kOhuBJAal927IjC9FlArRL16dxM align="left")
 
 To establish a new repository, you must click the new button; alternatively, you may also check the right side of your account.
-
-  
 
 ![](https://lh4.googleusercontent.com/WnvwOoolLCLwTClBYW203ibQQXWy-k1AMBUViXEKJY4fHnkl-gmYZiFyyeDGaf4OKu2ufW8V8sim_Mer7OynANZzmD7qmM-mqumJx6_dOMmDMVirERiavPhFNDJ9R4s2yU6mpob9UyOCnrO_ZjKdXYY align="left")
 
