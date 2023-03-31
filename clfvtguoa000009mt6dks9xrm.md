@@ -11,7 +11,7 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1680223810321/18719
 
 ## Introduction
 
-If you are a newbie to programming and you have been listening to GitHub and don’t know what exactly it is, then here is the right place for you to get to understand everything that you need to know and start using it yourself.
+If you are a newbie to programming and you have been hearing GitHub and don’t know what exactly it is, then here is the right place for you to get to understand everything that you need to know and start using it yourself.
 
 GitHub is something that you will probably be hearing when you are getting started with programming, however getting to know more about it will help you a lot in the long run.
 
