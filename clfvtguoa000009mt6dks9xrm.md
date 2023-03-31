@@ -3,6 +3,7 @@ title: "What is a GitHub"
 datePublished: Fri Mar 31 2023 00:38:47 GMT+0000 (Coordinated Universal Time)
 cuid: clfvtguoa000009mt6dks9xrm
 slug: what-is-a-github
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1680223810321/18719daa-8eff-4914-8f0b-aaa10d28a33a.png
 
 ---
 
