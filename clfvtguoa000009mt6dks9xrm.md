@@ -5,6 +5,7 @@ cuid: clfvtguoa000009mt6dks9xrm
 slug: what-is-github
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680781131226/54272520-5371-4c85-8d6e-67e2799571c2.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1680223810321/18719daa-8eff-4914-8f0b-aaa10d28a33a.png
+tags: github
 
 ---
 
