@@ -1,13 +1,12 @@
 ---
-title: "What is a GitHub"
+title: "What Is  GitHub"
 datePublished: Fri Mar 31 2023 00:38:47 GMT+0000 (Coordinated Universal Time)
 cuid: clfvtguoa000009mt6dks9xrm
-slug: what-is-a-github
+slug: what-is-github
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680781131226/54272520-5371-4c85-8d6e-67e2799571c2.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1680223810321/18719daa-8eff-4914-8f0b-aaa10d28a33a.png
 
 ---
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680222826864/11d8b3f0-70fe-43c7-9bab-1f71eb50dfbc.png align="left")
 
 ## Introduction
 
